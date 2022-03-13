@@ -23,26 +23,29 @@
     Hi 👋, I'm Lokesh Singh
 <!--     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> -->
   </h1>
-  <h2>
-    A Student Pursuing Bachelor of Engineering in Electronics and Computer Engineering.
-  </h2>
+  
 <!--  second section  -->
-  <div align="center">
+<!--   <div align="center">
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-  </div>
+  </div> -->
+<!--   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Lokesh598" alt="knockcat" /></a> </p> -->
 </div>  
 <!-- about me -->
 
----
+
   
  <div> 
   
 ### :man_technologist: About Me :
+  <h2>
+    A Student Pursuing Bachelor of Engineering in Electronics and Computer Engineering.
+  </h2>
 <!--   I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India. -->
-  - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+  
+<!-- - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications. -->
 
 - :seedling: I am currently learning fullstack development in MERN stack.
-- :: Ask me about anything related to C and C++ programming.
+- :cloud: Ask me about anything related to C and C++ programming.
 - :zap: In my free time, I solve problems on LeetCode and GeeksforGeeks and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Lokesh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lokesh598/)
@@ -54,6 +57,7 @@
 ### :hammer_and_wrench: Languages and Tools :
 <div>
 <div>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp; -->
@@ -77,10 +81,19 @@
 ### :fire: My Stats :
 
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lokesh598&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lokesh598&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
+
+<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lokesh598&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->  
+  
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lokesh598&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)  -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lokesh598&show_icons=true&locale=en&layout=compact" alt="Lokesh598" /></p>
+
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Lokesh598&show_icons=true&locale=en" alt="Lokesh598" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lokesh598&" alt="Lokesh598" /></p>
+
 <!-- ---
 
 ### :writing_hand: Blog Posts : -->
