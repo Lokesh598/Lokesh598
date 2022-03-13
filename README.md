@@ -42,7 +42,7 @@
   </h2>
 <!--   I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India. -->
   
-- :telescope: I’m working on a full stack(MERN) E-Commerce project.
+- :telescope: I am currently working on a full stack(MERN) E-Commerce project.
 
 - :seedling: I am currently learning BLOCKCHAIN from Coursera.
 - :cloud: Ask me about anything related to C and C++ programming.
