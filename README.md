@@ -20,10 +20,12 @@
   <img src="https://komarev.com/ghpvc/?username=Lokesh598&style=flat-square&color=blue" alt=""/>
   
   <h1>
-    hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    Hi 👋, I'm Lokesh Singh
+<!--     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> -->
   </h1>
-  
+  <h2>
+    A Student Pursuing Bachelor of Engineering in Electronics and Computer Engineering.
+  </h2>
 <!--  second section  -->
   <div align="center">
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -36,11 +38,11 @@
  <div> 
   
 ### :man_technologist: About Me :
-  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+<!--   I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India. -->
   - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
-
+- :seedling: I am currently learning fullstack development in MERN stack.
+- :: Ask me about anything related to C and C++ programming.
 - :zap: In my free time, I solve problems on LeetCode and GeeksforGeeks and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Lokesh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lokesh598/)
