@@ -38,7 +38,7 @@
   
 ### :man_technologist: About Me :
   <h2>
-    A Student Pursuing Bachelor of Engineering in Electronics and Computer Engineering.
+    A Student Completed Bachelor of Engineering in Electronics and Computer Engineering.
   </h2>
 <!--   I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India. -->
   
