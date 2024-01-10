@@ -48,7 +48,8 @@
 - :zap: In my free time, I solve problems on LeetCode and GeeksforGeeks and read tech articles.
   
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Lokesh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lokesh598/)
-   [![Leetcode Badge](https://img.shields.io/badge/-Lokesh-blue?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/Lokesh598/)
+- :keyboard: Coding Profile:
+   [![Leetcode Badge](https://img.shields.io/badge/-Lokesh-yello?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/Lokesh598/)
 </div>
 
 
