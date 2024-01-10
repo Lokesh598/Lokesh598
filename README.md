@@ -38,17 +38,16 @@
   
 ## :man_technologist: About Me :
   <h2>
-    A Student Completed Bachelor of Engineering in Electronics and Computer Engineering.
+<!--     A Student Completed Bachelor of Engineering in Electronics and Computer Engineering. -->
   </h2>
 <!--   I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India. -->
   
-- :telescope: I am currently working on a full stack(MERN) E-Commerce project.
-
-- :seedling: I am currently learning BLOCKCHAIN from Coursera.
-- :cloud: Ask me about anything related to C and C++ programming.
+- :telescope: I currently working for a US-based e-commerce project of Albertsons companies.
+- :seedling: I am currently doing Supervised Machine Learning from Coursera.
+- :cloud: Ask me about anything related to C, C++, and Java programming.
 - :zap: In my free time, I solve problems on LeetCode and GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Lokesh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lokesh598/)
+  
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Lokesh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lokesh598/)
 </div>
 
 
