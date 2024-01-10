@@ -50,6 +50,7 @@
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lokesh598/)
 - :keyboard: Coding Profile:
    [![Leetcode Badge](https://img.shields.io/badge/-Leetcode-yello?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/Lokesh598/)
+  [![GeeksforGeeks Badge](https://img.shields.io/badge/-GFG-Green?style=flat&logo=leetcode&logoColor=white)]([https://leetcode.com/Lokesh598/](https://auth.geeksforgeeks.org/user/ashawatlokesh/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user))
 </div>
 
 
