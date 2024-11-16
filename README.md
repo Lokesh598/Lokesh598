@@ -42,8 +42,8 @@
   </h2>
 <!--   I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India. -->
   
-- :telescope: I currently working for a US-based e-commerce project of Albertsons companies.
-- :seedling: I currently doing Supervised Machine Learning from Coursera.
+- :telescope: I am currently working for a US-based e-commerce project of Albertsons companies.
+- :seedling: I am currently doing Supervised Machine Learning from Coursera.
 - :cloud: Ask me about anything related to C, C++, and Java programming.
 - :zap: In my free time, I solve problems on LeetCode and GeeksforGeeks and read tech articles.
   
