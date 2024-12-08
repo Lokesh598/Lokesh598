@@ -45,7 +45,7 @@
 - :telescope: I am currently working for a US-based e-commerce project of Albertsons companies.
 - :seedling: I am currently exploring GEN AI.
 - :cloud: Ask me about anything related to C, C++, and Java programming.
-- :zap: In my free time, I solve problems on LeetCode and GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems on LeetCode, explore the open source projects and read tech articles.
   
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lokesh598/)
 - :keyboard: Coding Profile:
