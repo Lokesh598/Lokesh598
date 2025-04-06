@@ -54,7 +54,8 @@
 </div>
 
 
-![image](https://github.com/Lokesh598/Lokesh598/assets/63910828/7489fe01-6ff8-414e-9f48-73d093169eb0)
+![image](https://github.com/user-attachments/assets/b86e01de-ab57-4470-b5e2-ab051ffe6a39)
+
 
   
 ## :hammer_and_wrench: Languages and Tools :
